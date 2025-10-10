@@ -1,5 +1,1 @@
-safarov/freeswitch
-opensips/opensips:3.4
-alpine:latest
-clickhouse/clickhouse-server
-zfhdocker1/opensips
+zfhdocker1/opensips:mysql
