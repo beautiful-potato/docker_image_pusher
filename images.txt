@@ -1,5 +1,4 @@
 safarov/freeswitch
-opensips/opensips:sipssert-3.6
+opensips/opensips:3.4
 alpine:latest
 clickhouse/clickhouse-server
-opensips/opensips:sipssert-3.4
