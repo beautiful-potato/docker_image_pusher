@@ -1,3 +1,4 @@
 zfhdocker1/opensips:mysql
 zfhdocker1/opensips:mysql1
 mysql
+mysql:8.0
